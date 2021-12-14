@@ -5,8 +5,11 @@
 - 📫 How to reach me
 
 discord: deadspider#1770
+
 twitter: https://twitter.com/elo16698780
+
 youtube: https://www.youtube.com/channel/UC-Ws1dMb8YGGURqgGJsgU_Q
+
 email: elohimkisongasita@gmail.com
 <!---
 d3adsp1der/d3adsp1der is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
