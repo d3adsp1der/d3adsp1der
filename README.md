@@ -10,7 +10,7 @@ twitter: https://twitter.com/elo16698780
 
 youtube: https://www.youtube.com/channel/UC-Ws1dMb8YGGURqgGJsgU_Q
 
-email: elohimkisongasita@gmail.com
+email: deadS@gmail.com
 <!---
 d3adsp1der/d3adsp1der is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
